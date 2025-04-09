@@ -151,3 +151,4 @@ ctx.moveTo(bodyEndX, neckY);
 ctx.quadraticCurveTo(bodyEndX + 30, neckY - 20, bodyEndX + 20, neckY + 10);
 ctx.stroke();
 
+```
